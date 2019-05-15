@@ -35,7 +35,7 @@ const URLS_TO_CACHE = [
   "script.js"
 ];
 ```
-
+> chrome://inspect/#service-workers
 Next, a listener for the service worker's `install` event, which is the best place to carry out the task of creating the cache and adding the URLs defined above to it:
 
 ```javascript
