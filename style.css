@@ -1,0 +1,17 @@
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.wrap {
+  margin: 0 auto;
+  max-width: 960px;
+  width: 90%
+}
+
+textarea {
+  border-color: silver;
+  font-family: monospace;
+  min-height: 17rem;
+  padding: 1rem 0.5rem;
+  width: 100%;
+}
